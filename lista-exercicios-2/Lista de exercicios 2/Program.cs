@@ -248,6 +248,22 @@ namespace Lista_de_exercicios_2
             //}
 
             //Exercício 11
+            //int h=0, m=0;
+            //Console.WriteLine("Digite a hora desejada: ");
+            //h = int.Parse(Console.ReadLine());
+
+            //if (h < 0 || h > 23)
+            //{
+            //    Console.WriteLine("Hora inválida: ");
+            //}
+
+            //Console.WriteLine("Digite os minutos: ");
+            //m = int.Parse(Console.ReadLine());
+
+            //Exercício 12
+
+
+
         }
     }
 }
