@@ -262,8 +262,251 @@ namespace Lista_de_exercicios_2
 
             //Exercício 12
 
+            //int codigo, numeroHoras, salario, extra = 0;
 
+            //Console.Write("Digite o código do operário: ");
+            //codigo = int.Parse(Console.ReadLine());
+            //Console.Write("Digite a quantidade de horas trabalhadas: ");
+            //numeroHoras = int.Parse(Console.ReadLine());
 
+            //if (numeroHoras > 50)
+            //{
+            //    extra = (numeroHoras - 50) * 20;
+            //    salario = 10 * numeroHoras;
+            //}
+            //else
+            //{
+            //    salario = 10 * numeroHoras;
+            //}
+
+            //Console.WriteLine("O salario total do operario é R$"+salario+"\nO excedente é R$"+extra);
+
+            //Exercício 13
+
+            //Console.Write("Digite a altura com (0,00): ");
+            //double altura = double.Parse(Console.ReadLine());
+            //Console.WriteLine("Digite o sexo: ");
+            //string sexo = Console.ReadLine();
+
+            //if (sexo == "masculino")
+            //{
+            //    double pesoIdealH = (72.7 * altura) - 58;
+            //    Console.WriteLine("O seu peso ideal é " + pesoIdealH.ToString().Substring(0,4));
+            //}
+            //else
+            //{
+            //    double pesoIdealM = (62.1 * altura) - 44.7;
+            //    Console.WriteLine("O seu peso ideal é " + pesoIdealM.ToString().Substring(0, 4));
+            //}
+
+            //Exercício 14
+
+            //Console.Write("Digite o tamanho do arquivo que deseja fazer o download em Mb: ");
+            //int tamanho = int.Parse(Console.ReadLine());
+            //Console.Write("Digite a velocidade da internet em Mbps: ");
+            //int velocidade = int.Parse(Console.ReadLine());
+
+            //int tempo = (tamanho / velocidade) / 60 ;
+
+            //Console.WriteLine("O tempo aproximado que será gasto para o download com a velocidade de "+velocidade+"Mbps será de "+tempo+" Minutos");
+
+            //Exercício 15
+
+            //int quantidadeL, quantidadeLatas, total;
+            //Console.Write("Quanto metros quandrados serão pintados? ");
+            //int metros = int.Parse(Console.ReadLine());
+
+            //quantidadeL = metros / 3; 
+
+            //if (quantidadeL <= 18)
+            //{
+            //    Console.WriteLine("Será apenas uma lata de tinta com 18L total de R$80");
+            //}
+            //else
+            //{
+            //    quantidadeLatas = quantidadeL / 18;
+            //    total = quantidadeLatas * 80;
+            //    Console.WriteLine("Serão gastas "+quantidadeLatas+" latas de tinta e o valor total é R$"+total);
+            //}
+
+            //Exercício 16
+
+            //int casa, fora;
+
+            //Console.Write("Digite o placar do jogo, primeiro time de casa: ");
+            //casa = int.Parse(Console.ReadLine());
+            //Console.Write("agora time de fora: ");
+            //fora = int.Parse(Console.ReadLine());
+
+            //if (casa == (fora + 1))
+            //{
+            //    Console.WriteLine("Os dois times se enfrentarão em um novo jogo!");
+            //    Console.Write("Digite o placar do jogo, primeiro time de casa: ");
+            //    casa = int.Parse(Console.ReadLine());
+            //    Console.Write("agora time de fora: ");
+            //    fora = int.Parse(Console.ReadLine());
+            //    if (fora == casa)
+            //    {
+            //        Console.WriteLine("Jogo empatado!");
+            //    }
+            //    else if(fora > casa)
+            //    {
+            //        Console.WriteLine("O time de fora se classificou para a proxima fase!");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("O time de casa se classificou para a proxima fase!");
+            //    }
+            //}
+            //else if (casa > (fora +1))
+            //{
+            //    Console.WriteLine("O time de casa já se classificou");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("O time de fora se classificou!");
+            //}
+
+            //Exercício 17
+
+            //Console.WriteLine("Digite 3 medidas para um triangulo: ");
+            //int a = int.Parse(Console.ReadLine());
+            //int b = int.Parse(Console.ReadLine());
+            //int c = int.Parse(Console.ReadLine());
+            //if (a <= (b + c) || b <= (c + a) || c <= (b + a))
+            //{
+            //    if (a == b && b == c)
+            //    {
+            //        Console.WriteLine("Esse triangulo é equilátero!");
+            //    }
+            //    else if (a == b || b == c || c == a)
+            //    {
+            //        Console.WriteLine("Esse triangulo é isoceles!");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Esse triangulo é escaleno!");
+            //    }
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Essas medidas não formam um triangulo!");
+            //}
+
+            //Exercício 18
+
+            //Console.WriteLine("Digite 3 valores:");
+            //int a = int.Parse(Console.ReadLine());
+            //int b = int.Parse(Console.ReadLine());
+            //int c = int.Parse(Console.ReadLine());
+            //if (a > b && a > c)
+            //{
+            //    Console.WriteLine(a+" é o maior valor!");
+            //}else if (b > a && b > c)
+            //{
+            //    Console.WriteLine(b+" é o maior valor!");
+            //}
+            //else
+            //{
+            //    Console.WriteLine(c+" é o maior valor!");
+            //}
+
+            //Exercício 19
+
+            //int primeiro = 0, segundo = 0, terceiro = 0;
+
+            //Console.WriteLine("Digite 3 valores:");
+            //int a = int.Parse(Console.ReadLine());
+            //int b = int.Parse(Console.ReadLine());
+            //int c = int.Parse(Console.ReadLine());
+
+            //if (a < b && a < c)
+            //{
+            //    primeiro = a;
+            //}
+            //else if (b < c && b < a)
+            //{
+            //    primeiro = b;
+            //}
+            //else
+            //{
+            //    primeiro = c;
+            //}
+
+            //if ((a > b && a < c) || (a > c && a < b))
+            //{
+            //    segundo = a;
+            //}
+            //else if ((b > a && b < c) || (b > c && b < a))
+            //{
+            //    segundo = b;
+            //}
+            //else
+            //{
+            //    segundo = c;
+            //}
+
+            //if (a > b && a > c)
+            //{
+            //    terceiro = a;
+            //}
+            //else if (b > a && b > c)
+            //{
+            //    terceiro = b;
+            //}
+            //else
+            //{
+            //    terceiro = c;
+            //}
+
+            //Console.WriteLine(primeiro+"\n"+segundo+"\n"+terceiro);
+
+            //Exercício 20
+
+            //int nSecreto = 8;
+
+            //Console.WriteLine("Digite um número: ");
+            //int numero = int.Parse(Console.ReadLine());
+            //if (numero > nSecreto)
+            //{
+            //    Console.WriteLine("é menor!");
+            //}
+            //else if (numero == nSecreto)
+            //{
+            //    Console.WriteLine("acertou!");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("é maior");
+            //}
+            //Console.WriteLine("Digite novamente: ");
+            //numero = int.Parse(Console.ReadLine());
+            //if (numero > nSecreto)
+            //{
+            //    Console.WriteLine("é menor!");
+            //}
+            //else if (numero == nSecreto)
+            //{
+            //    Console.WriteLine("acertou!");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("é maior");
+            //}
+            //Console.WriteLine("Digite novamente: ");
+            //numero = int.Parse(Console.ReadLine());
+            //if (numero > nSecreto)
+            //{
+            //    Console.WriteLine("é menor!");
+            //}
+            //else if (numero == nSecreto)
+            //{
+            //    Console.WriteLine("acertou!");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("é maior");
+            //}
         }
     }
 }
