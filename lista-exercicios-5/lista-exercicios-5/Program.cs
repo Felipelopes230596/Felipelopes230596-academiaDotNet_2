@@ -7,6 +7,7 @@ namespace lista_exercicios_5
         static void Main(string[] args)
         {
             //Exercício 01
+            //Crie uma Matriz 5x3. Na primeira coluna, solicite que o usuário preencha. A 2ª coluna, some 10 aos elementos da 1ª coluna. Na 3º coluna, armazene o dobro dos elementos da 1ª coluna.
 
             //int[,] matriz = new int[5, 3];
 
@@ -27,6 +28,15 @@ namespace lista_exercicios_5
             //}
 
             //Exercício 02
+            /*Solicite ao usuário, preencher uma Matriz 3x3
+
+            Informe ao usuário:
+            *A soma dos elementos de cada linha
+            -Ex: Linha 1: 30
+            Linha 2: 17
+            *A soma dos elementos de cada coluna
+            -Ex: Coluna 1: 23
+            Coluna 2: 36*/
 
             //int[,] matriz = new int[3, 3];
             //int[] coluna = new int[3], linha = new int[3];
@@ -60,6 +70,7 @@ namespace lista_exercicios_5
             //}
 
             //Exercício 03
+            //Popule uma matriz 4x4 e mostre os elementos da Diagonal Principal!
 
             //int[,] matriz = new int[4, 4];
 
@@ -78,6 +89,12 @@ namespace lista_exercicios_5
             //}
 
             //Exercício 04
+            /*Popule uma matriz 5x5 e informe:
+            -Quantos números são pares
+            -Quantos números são impares
+            -Quantos números são positivos
+            -Quantos números são negativos
+            -Quantos zeros existem!*/
 
             //int[,] matriz = new int[5, 5];
             //int par = 0, impar = 0, positivo = 0, negativo = 0, zero = 0;
@@ -112,6 +129,7 @@ namespace lista_exercicios_5
             //Console.WriteLine(+par+ " são pares.\n"+impar+" são impares.\n"+positivo+" são positivos.\n"+negativo+" são negativos.\nExistem "+zero+" zero.");
 
             //Exercício 05
+            //Leia duas matrizes 2x3 de números double. Imprima a soma destas duas matrizes.
 
             //double[,] matriz1 = new double[2,3], matriz2 = new double[2,3];
 
@@ -134,6 +152,9 @@ namespace lista_exercicios_5
             //}
 
             //Exercício 06
+            /*Gere e imprima uma matriz M 4x4 com valores aleatórios entre 0-9. Após isso determine o maior número da matriz.
+            Random random = new Random();
+            int randomNumber = random.Next(0, 100);*/
 
             //int[,] m = new int[4, 4];
 
@@ -160,6 +181,7 @@ namespace lista_exercicios_5
             //Console.WriteLine("O maior número da matriz é: "+maior);
 
             //Exercício 07
+            //Leia duas matrizes A e B com 3x3 elementos. Construir uma matriz C, onde cada elemento de C é a subtração do elemento correspondente de A com B.
 
             //int[,] a = new int[3, 3], b = new int[3, 3], c = new int[3, 3];
 
@@ -183,6 +205,7 @@ namespace lista_exercicios_5
             //}
 
             //Exercício 09
+            //Ler uma matriz com 4x4 de inteiros e mostrar os números na ordem direta e inversa a que foram lidos.
 
             //int[,] matriz = new int[4, 4];
 
@@ -213,6 +236,8 @@ namespace lista_exercicios_5
             //}
 
             //Exercício 10
+            /*Leia uma matriz 3x3.  Em seguida, solicite um número qualquer ao usuário e pesquise na matriz se o número existe.  
+            Caso, seja verdade imprima a mensagem:  “O número existe no vetor” , caso contrário “Número inexistente”.*/
 
             //int[,] matriz = new int[3, 3];
             //Random random = new Random();
@@ -244,6 +269,8 @@ namespace lista_exercicios_5
             //}
 
             //Exercício 11
+            //Leia duas matrizes A e B de 4x4 elementos, calcule a média dos mesmos, em seguida, diga quantos dos elementos lidos estão abaixo, acima e na média.
+
 
             //int[,] a = new int[4, 4], b = new int[4, 4];
             //Random random = new Random();
@@ -291,6 +318,7 @@ namespace lista_exercicios_5
             //Console.WriteLine(+acima+" estão acima da média.\n"+media+" estão na média.\n"+naMedia+" estão a baixo da média.");
 
             //Exercício 12
+            //Leia uma matriz A de tipo double de dimenção 3x3, crie uma nova matriz resultante da divisão dos elementos da matriz A pela soma dos seus indices.
 
             //double[,] a = new double[3, 3], resultado = new double[3,3];
             //Random random = new Random();
