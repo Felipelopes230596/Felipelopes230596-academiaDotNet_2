@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET Academia\\Git\\lista-exercicios-4\\lista-exercicios-4\\lista-exercicios-4.csproj",
+      "projectUniqueName": "D:\\.NET Academia\\Git\\Listas-Feitas\\lista-exercicios-4\\lista-exercicios-4\\lista-exercicios-4.csproj",
       "projectName": "lista-exercicios-4",
-      "projectPath": "D:\\.NET Academia\\Git\\lista-exercicios-4\\lista-exercicios-4\\lista-exercicios-4.csproj",
+      "projectPath": "D:\\.NET Academia\\Git\\Listas-Feitas\\lista-exercicios-4\\lista-exercicios-4\\lista-exercicios-4.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET Academia\\Git\\lista-exercicios-4\\lista-exercicios-4\\obj\\",
+      "outputPath": "D:\\.NET Academia\\Git\\Listas-Feitas\\lista-exercicios-4\\lista-exercicios-4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
