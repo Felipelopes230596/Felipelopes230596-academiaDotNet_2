@@ -1,0 +1,15 @@
+D:\.NET Academia\Git\lista-exercicios-4\lista-exercicios-4\bin\Debug\net6.0\lista-exercicios-4.exe
+D:\.NET Academia\Git\lista-exercicios-4\lista-exercicios-4\bin\Debug\net6.0\lista-exercicios-4.deps.json
+D:\.NET Academia\Git\lista-exercicios-4\lista-exercicios-4\bin\Debug\net6.0\lista-exercicios-4.runtimeconfig.json
+D:\.NET Academia\Git\lista-exercicios-4\lista-exercicios-4\bin\Debug\net6.0\lista-exercicios-4.dll
+D:\.NET Academia\Git\lista-exercicios-4\lista-exercicios-4\bin\Debug\net6.0\lista-exercicios-4.pdb
+D:\.NET Academia\Git\lista-exercicios-4\lista-exercicios-4\obj\Debug\net6.0\lista-exercicios-4.csproj.AssemblyReference.cache
+D:\.NET Academia\Git\lista-exercicios-4\lista-exercicios-4\obj\Debug\net6.0\lista-exercicios-4.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Academia\Git\lista-exercicios-4\lista-exercicios-4\obj\Debug\net6.0\lista-exercicios-4.AssemblyInfoInputs.cache
+D:\.NET Academia\Git\lista-exercicios-4\lista-exercicios-4\obj\Debug\net6.0\lista-exercicios-4.AssemblyInfo.cs
+D:\.NET Academia\Git\lista-exercicios-4\lista-exercicios-4\obj\Debug\net6.0\lista-exercicios-4.csproj.CoreCompileInputs.cache
+D:\.NET Academia\Git\lista-exercicios-4\lista-exercicios-4\obj\Debug\net6.0\lista-exercicios-4.dll
+D:\.NET Academia\Git\lista-exercicios-4\lista-exercicios-4\obj\Debug\net6.0\refint\lista-exercicios-4.dll
+D:\.NET Academia\Git\lista-exercicios-4\lista-exercicios-4\obj\Debug\net6.0\lista-exercicios-4.pdb
+D:\.NET Academia\Git\lista-exercicios-4\lista-exercicios-4\obj\Debug\net6.0\lista-exercicios-4.genruntimeconfig.cache
+D:\.NET Academia\Git\lista-exercicios-4\lista-exercicios-4\obj\Debug\net6.0\ref\lista-exercicios-4.dll
