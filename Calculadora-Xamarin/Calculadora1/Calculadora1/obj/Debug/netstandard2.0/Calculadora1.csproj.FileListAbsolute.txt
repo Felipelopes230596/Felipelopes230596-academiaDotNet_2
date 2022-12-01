@@ -1,0 +1,15 @@
+D:\.NET Academia\xamarin\Calculadora1\Calculadora1\Calculadora1\bin\Debug\netstandard2.0\Calculadora1.deps.json
+D:\.NET Academia\xamarin\Calculadora1\Calculadora1\Calculadora1\bin\Debug\netstandard2.0\Calculadora1.dll
+D:\.NET Academia\xamarin\Calculadora1\Calculadora1\Calculadora1\bin\Debug\netstandard2.0\Calculadora1.pdb
+D:\.NET Academia\xamarin\Calculadora1\Calculadora1\Calculadora1\obj\Debug\netstandard2.0\Calculadora1.csproj.AssemblyReference.cache
+D:\.NET Academia\xamarin\Calculadora1\Calculadora1\Calculadora1\obj\Debug\netstandard2.0\Calculadora1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Academia\xamarin\Calculadora1\Calculadora1\Calculadora1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\.NET Academia\xamarin\Calculadora1\Calculadora1\Calculadora1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\.NET Academia\xamarin\Calculadora1\Calculadora1\Calculadora1\obj\Debug\netstandard2.0\Calculadora1.AssemblyInfoInputs.cache
+D:\.NET Academia\xamarin\Calculadora1\Calculadora1\Calculadora1\obj\Debug\netstandard2.0\Calculadora1.AssemblyInfo.cs
+D:\.NET Academia\xamarin\Calculadora1\Calculadora1\Calculadora1\obj\Debug\netstandard2.0\Calculadora1.csproj.CoreCompileInputs.cache
+D:\.NET Academia\xamarin\Calculadora1\Calculadora1\Calculadora1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\.NET Academia\xamarin\Calculadora1\Calculadora1\Calculadora1\obj\Debug\netstandard2.0\Calculadora1.dll
+D:\.NET Academia\xamarin\Calculadora1\Calculadora1\Calculadora1\obj\Debug\netstandard2.0\refint\Calculadora1.dll
+D:\.NET Academia\xamarin\Calculadora1\Calculadora1\Calculadora1\obj\Debug\netstandard2.0\Calculadora1.pdb
+D:\.NET Academia\xamarin\Calculadora1\Calculadora1\Calculadora1\obj\Debug\netstandard2.0\ref\Calculadora1.dll

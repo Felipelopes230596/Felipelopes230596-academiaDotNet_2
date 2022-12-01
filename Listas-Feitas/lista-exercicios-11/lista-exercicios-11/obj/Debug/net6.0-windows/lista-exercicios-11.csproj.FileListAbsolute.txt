@@ -1,0 +1,17 @@
+D:\.NET Academia\Git\Listas-Feitas\lista-exercicios-11\lista-exercicios-11\bin\Debug\net6.0-windows\lista-exercicios-11.exe
+D:\.NET Academia\Git\Listas-Feitas\lista-exercicios-11\lista-exercicios-11\bin\Debug\net6.0-windows\lista-exercicios-11.deps.json
+D:\.NET Academia\Git\Listas-Feitas\lista-exercicios-11\lista-exercicios-11\bin\Debug\net6.0-windows\lista-exercicios-11.runtimeconfig.json
+D:\.NET Academia\Git\Listas-Feitas\lista-exercicios-11\lista-exercicios-11\bin\Debug\net6.0-windows\lista-exercicios-11.dll
+D:\.NET Academia\Git\Listas-Feitas\lista-exercicios-11\lista-exercicios-11\bin\Debug\net6.0-windows\lista-exercicios-11.pdb
+D:\.NET Academia\Git\Listas-Feitas\lista-exercicios-11\lista-exercicios-11\obj\Debug\net6.0-windows\lista-exercicios-11.csproj.AssemblyReference.cache
+D:\.NET Academia\Git\Listas-Feitas\lista-exercicios-11\lista-exercicios-11\obj\Debug\net6.0-windows\lista_exercicios_11.Form_principal.resources
+D:\.NET Academia\Git\Listas-Feitas\lista-exercicios-11\lista-exercicios-11\obj\Debug\net6.0-windows\lista-exercicios-11.csproj.GenerateResource.cache
+D:\.NET Academia\Git\Listas-Feitas\lista-exercicios-11\lista-exercicios-11\obj\Debug\net6.0-windows\lista-exercicios-11.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Academia\Git\Listas-Feitas\lista-exercicios-11\lista-exercicios-11\obj\Debug\net6.0-windows\lista-exercicios-11.AssemblyInfoInputs.cache
+D:\.NET Academia\Git\Listas-Feitas\lista-exercicios-11\lista-exercicios-11\obj\Debug\net6.0-windows\lista-exercicios-11.AssemblyInfo.cs
+D:\.NET Academia\Git\Listas-Feitas\lista-exercicios-11\lista-exercicios-11\obj\Debug\net6.0-windows\lista-exercicios-11.csproj.CoreCompileInputs.cache
+D:\.NET Academia\Git\Listas-Feitas\lista-exercicios-11\lista-exercicios-11\obj\Debug\net6.0-windows\lista-exercicios-11.dll
+D:\.NET Academia\Git\Listas-Feitas\lista-exercicios-11\lista-exercicios-11\obj\Debug\net6.0-windows\refint\lista-exercicios-11.dll
+D:\.NET Academia\Git\Listas-Feitas\lista-exercicios-11\lista-exercicios-11\obj\Debug\net6.0-windows\lista-exercicios-11.pdb
+D:\.NET Academia\Git\Listas-Feitas\lista-exercicios-11\lista-exercicios-11\obj\Debug\net6.0-windows\lista-exercicios-11.genruntimeconfig.cache
+D:\.NET Academia\Git\Listas-Feitas\lista-exercicios-11\lista-exercicios-11\obj\Debug\net6.0-windows\ref\lista-exercicios-11.dll
